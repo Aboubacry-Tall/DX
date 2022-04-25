@@ -1,7 +1,0 @@
-package com.cagnotte.repository;
-
-import org.springframework.boot.autoconfigure.data.jpa.JpaRepositoriesAutoConfiguration;
-
-public class MembreRepository extends JpaRepositorie{
-
-}
